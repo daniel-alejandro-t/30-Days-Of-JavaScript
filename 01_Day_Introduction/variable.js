@@ -32,12 +32,3 @@ let lastMonth = 8
 let lastDay = 8
 let university = "Universidad Técnica Particular de Loja"
 
-/*
-Declare two variables myAge and yourAge and assign them initial values
-and log to the browser console
-*/
-myAge = 28
-yourAge = 38
-
-console.log('I am' , myAge , 'years old.')
-console.log('You are' , yourAge , 'years old.')
